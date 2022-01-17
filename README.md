@@ -1,6 +1,9 @@
 # PRAC2 Visualització de dades: Trucades al servei d'atenció de violència de gènere de Catalunya
 * Sergio Costa Planells
 
+## Visualització
+https://ja.cat/violenciagenerecat
+
 ## Resum 
 
 En aquesta pràctica s'ha elaborat una visualització de tipus panell de control que permet analitzar les dades relatives a les trucades al servei d'atenció de violència de gènere. El conjunt de dades original es pot descarregar del portal de dades obertes de la Generalitat de Catalunya. La resta de dades utilitzades per a la visualització provenen d'extraccions de dades de l'IDESCAT i del repositori de dades geogràfiques de Gloria Macia (https://t.co/ABQVSjo0fz)
