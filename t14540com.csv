@@ -1,0 +1,53 @@
+﻿Població de 15 anys i més segons nivell de formació assolit. Per nivells agregats
+Comarques i Aran. 2019 (p)
+Unitats: %.
+Font: Idescat. Estadística dels estudis de la població.
+"Nota: Les dades es presenten segons la distribució territorial actualment vigent, que són les 41 comarques i Aran (d'acord amb la Llei 4/2015, de creació de la comarca del Moianès, que també modifica territorialment les comarques del Bages, Osona i el Vallès Oriental, i d'acord amb la Llei 1/2015, del règim especial d'Aran)."
+(p) Dada provisional.
+Institut d'Estadística de Catalunya
+http://www.idescat.cat/pub/?id=eep&n=14540&by=com
+Codi,Literal,Educació primària o inferior,Primera etapa d’educació secundària i similar,Segona etapa d’educació secundària i similar,Educació superior
+01,Alt Camp,17.9,35.3,21.0,25.8,
+02,Alt Empordà,23.3,32.8,23.1,20.8,
+03,Alt Penedès,18.3,30.2,23.3,28.2,
+04,Alt Urgell,18.6,29.2,25.1,27.1,
+05,Alta Ribagorça,18.2,26.0,24.1,31.7,
+06,Anoia,17.7,33.9,23.1,25.3,
+39,Aran,12.3,27.5,28.6,31.6,
+07,Bages,18.5,32.7,21.7,27.1,
+08,Baix Camp,18.3,31.5,22.9,27.3,
+09,Baix Ebre,23.1,32.9,21.9,22.1,
+10,Baix Empordà,19.7,33.0,21.6,25.7,
+11,Baix Llobregat,17.3,27.6,24.1,31.0,
+12,Baix Penedès,18.4,33.5,23.8,24.3,
+13,Barcelonès,17.1,21.6,23.2,38.1,
+14,Berguedà,18.9,33.1,20.1,27.8,
+15,Cerdanya,16.3,28.4,25.5,29.8,
+16,Conca de Barberà,18.8,33.3,22.1,25.8,
+17,Garraf,15.4,25.7,24.7,34.2,
+18,Garrigues,22.5,34.2,20.0,23.3,
+19,Garrotxa,22.4,29.3,21.1,27.2,
+20,Gironès,18.2,27.2,23.8,30.9,
+21,Maresme,16.9,27.9,23.4,31.8,
+42,Moianès,16.4,29.5,23.3,30.8,
+22,Montsià,21.1,36.1,21.0,21.8,
+23,Noguera,21.0,36.1,20.1,22.9,
+24,Osona,18.7,31.4,22.6,27.3,
+25,Pallars Jussà,22.5,24.3,23.1,30.1,
+26,Pallars Sobirà,15.3,22.4,26.8,35.5,
+27,Pla d'Urgell,21.9,34.3,20.4,23.5,
+28,Pla de l'Estany,18.6,30.3,20.5,30.6,
+29,Priorat,16.9,34.9,20.7,27.5,
+30,Ribera d'Ebre,22.6,33.5,19.0,25.0,
+31,Ripollès,20.6,32.0,20.9,26.5,
+32,Segarra,25.0,33.4,20.2,21.5,
+33,Segrià,19.0,31.8,21.1,28.2,
+34,Selva,19.6,34.9,23.6,21.9,
+35,Solsonès,20.7,28.4,22.0,28.9,
+36,Tarragonès,17.3,29.6,22.4,30.7,
+37,Terra Alta,27.0,37.0,18.3,17.6,
+38,Urgell,20.9,31.1,23.5,24.5,
+40,Vallès Occidental,16.2,28.2,23.4,32.2,
+41,Vallès Oriental,16.9,29.4,24.7,29.0,
+,Catalunya,17.7,27.4,23.2,31.8,
+
