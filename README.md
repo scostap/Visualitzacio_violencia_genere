@@ -21,7 +21,7 @@ En aquesta pràctica s'ha elaborat una visualització de tipus panell de control
 
 **Violència_genere_PRAC2.twbx** -> Workbook de Tableau amb la visualització.
 
-**Fitxers t*.csv** Taules extretes de l'IDESCAT amb diferents dades socioeconòmiques de les comarques de Catalunya: Població, PIBC, Risc de pobresa i exclusió social, Estudis de la població, Índex socioeconòmic territorial, Demandants d’ocupació de l’atur.
+**Fitxers t\*.csv** Taules extretes de l'IDESCAT amb diferents dades socioeconòmiques de les comarques de Catalunya: Població, PIBC, Risc de pobresa i exclusió social, Estudis de la població, Índex socioeconòmic territorial, Demandants d’ocupació de l’atur.
 
 
 
